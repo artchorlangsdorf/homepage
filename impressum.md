@@ -1,14 +1,8 @@
-|[Home](index.md)|[Kontakte](kontakte.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|[Einsätze](https://feuerwehr.lich.de/einsaetze)|
+|[Home](index.md)|[Kontakte](kontakte.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|
 
 # Impressum
 
-## Freiwillige Feuerwehr Langsdorf e. V.
-Schulschwan
-35423 Lich-Langsdorf
-
-E-Mail: d.jung-lich@t-online.de
-
-Internet: www.feuerwehr-langsdorf.de
+## ARtchor Langsdorf
 
 ## Vertretungsberechtigter Vorstand:
 

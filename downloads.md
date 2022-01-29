@@ -1,4 +1,4 @@
-|[Home](index.md)|[Kontakte/Abteilungen](kontakte.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|[Einsätze](https://feuerwehr.lich.de/einsaetze)|
+|[Home](index.md)|[Kontakte/Abteilungen](kontakte.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|
 
 # Downloads
 
